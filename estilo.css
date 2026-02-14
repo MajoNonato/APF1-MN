@@ -1,0 +1,11 @@
+
+body {
+  font-family: 'Poppins', sans-serif; 
+  background-color: violet;
+  color: white; 
+  transition: background-color 0.5s ease;
+}
+
+body:hover {
+  background-color: indigo; 
+}
